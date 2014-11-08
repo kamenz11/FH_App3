@@ -61,7 +61,7 @@ public class MyActivity extends ActionBarActivity {
         });
     }
 
-    //Test
+    //Test2
 
     public void start1(){
         Intent intent = new Intent(this, MyActivity2.class);
